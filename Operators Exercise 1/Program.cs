@@ -34,18 +34,14 @@ namespace OperatorsExercise1
 
             Console.WriteLine(a / b);
 
-            Console.WriteLine("if a = 16 and b= 5 (16/5) = 3 remainder is 2");
+            Console.WriteLine(a % b);
+
+
+
+            Console.WriteLine("if a = 16 and b= 5 (16/5) = 3 remainder is 1");
 
         }
 
     }
-
-    
-    
-
-
-
-
-
 
 }
