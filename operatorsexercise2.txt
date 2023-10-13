@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: operators Exercise 2, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>operators Exercise 2 -> C:\Users\geoha\repos\operators Exercise 2\operators Exercise 2\bin\Debug\net6.0\operators Exercise 2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:18 PM and took 00.283 seconds ==========
